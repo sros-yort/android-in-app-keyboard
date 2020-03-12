@@ -1,0 +1,23 @@
+
+x
+java:S3008"[Rename this field "DELETE_KEY_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£÷Ì¯8Î¿ĞÇŒ.
+z
+java:S3008"]Rename this field "LANGUAGE_KEY_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±»­÷8Î¿ĞÇŒ.
+x	java:S116"WRename this field "NUM_KEY_ROWS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¿±æÿÿÿÿÿ8Î¿ĞÇŒ.
+w
+java:S3008"ZRename this field "SHIFT_KEY_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šŒÇ¾8Î¿ĞÇŒ.
+x
+java:S3008"[Rename this field "SYMBOL_KEY_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø–Œ€8Î¿ĞÇŒ.
+n	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚úÒ8Î¿ĞÇŒ.
+|
+java:S3008"ZRename this field "ENTER_KEY_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¢ù¸ÿÿÿÿÿ8Î¿ĞÇŒ.
+|
+java:S3008"ZRename this field "SPACE_KEY_INDEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(––¦Ïøÿÿÿÿ8Î¿ĞÇŒ.
+p
+java:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÛÅ–8Î¿ĞÇŒ.
+s	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ËÄÓøÿÿÿÿ8Î¿ĞÇŒ.
+s	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æª•ûÿÿÿÿ8Î¿ĞÇŒ.
+C
+java:S1170"!Make this final field static too.(œ¿±æÿÿÿÿÿ8Î¿ĞÇŒ.
+M
+java:S1481Ê"*Remove this unused "key_y" local variable.(±ËÄÓøÿÿÿÿ8Î¿ĞÇŒ.

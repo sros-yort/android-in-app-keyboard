@@ -1,0 +1,16 @@
+
+u
+java:S3776İ"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¢—›—øÿÿÿÿ8¢ÙÉÉŒ.
+Q
+java:S1144´".Remove this unused private "playClick" method.(µÁÚ¯ùÿÿÿÿ8Š­ÈŒ.
+Ÿ
+java:S1186Î"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–õ½à8Š­ÈŒ.
+Ÿ
+java:S1186Ä"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´ƒÅñ8Š­ÈŒ.
+Y	java:S125š"<This block of commented-out lines of code should be removed.(½ØŞ´8Š­ÈŒ.
+Ÿ
+java:S1186É"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•œÇÆ8Š­ÈŒ.
+¤
+java:S1186Ó"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÃÔ¹úÿÿÿÿ8Š­ÈŒ.
+Ÿ
+java:S1186Ø"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“²ÀÈ8Š­ÈŒ.

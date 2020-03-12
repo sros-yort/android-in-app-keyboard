@@ -1,0 +1,14 @@
+
+u	java:S127Ø"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8Ëë’ÈŒ.
+v	java:S135ı"YReduce the total number of break and continue statements in this loop to use at most one.(ˆõ¤Ó8Ëë’ÈŒ.
+z	java:S127‹"XRefactor the code in order to not assign to this loop counter from within the loop body.(çø¡¡üÿÿÿÿ8Ëë’ÈŒ.
+t	java:S127À"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8Ëë’ÈŒ.
+u
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ı™øÿÿÿÿ8Ëë’ÈŒ.
+u	java:S127¸"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8Ëë’ÈŒ.
+t	java:S127Ç"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8Ëë’ÈŒ.
+z	java:S127“"XRefactor the code in order to not assign to this loop counter from within the loop body.( æƒ«ıÿÿÿÿ8Ëë’ÈŒ.
+u	java:S127ª"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8Ëë’ÈŒ.
+p
+java:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 71 to the 15 allowed.(ğ‹ ƒ8Ëë’ÈŒ.
+t	java:S127¦"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8Ëë’ÈŒ.
